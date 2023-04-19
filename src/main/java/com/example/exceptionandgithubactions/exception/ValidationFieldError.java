@@ -1,4 +1,4 @@
-package com.switchfully.pamriksa.exception;
+package com.example.exceptionandgithubactions.exception;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

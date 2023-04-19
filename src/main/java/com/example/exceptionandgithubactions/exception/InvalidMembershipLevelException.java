@@ -1,6 +1,4 @@
-package com.switchfully.pamriksa.exception;
-
-import org.springframework.http.HttpStatus;
+package com.example.exceptionandgithubactions.exception;
 
 public class InvalidMembershipLevelException extends BadRequestException {
 

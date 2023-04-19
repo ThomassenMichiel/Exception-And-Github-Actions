@@ -1,4 +1,4 @@
-package com.switchfully.pamriksa.exception;
+package com.example.exceptionandgithubactions.exception;
 
 import lombok.extern.slf4j.Slf4j;
 
